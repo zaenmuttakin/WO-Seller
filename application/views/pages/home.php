@@ -1,1 +1,1 @@
-<a href="<?= base_url('login'); ?>">Masuk   </a> |   <a href="<?= base_url('register'); ?>">Daftar</a>
+<a href="<?= base_url('login'); ?>" class='btn-primary'>Masuk   </a> |   <a href="<?= base_url('register'); ?>">Daftar</a>
